@@ -1,0 +1,52 @@
+Running `(cd /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/; ANDROID_HOME=/Users/aminvatankhahi/Library/Android/sdk TMPDIR=/var/folders/5v/2w6k6gzx5dbb0rps1jt508yc0000gn/T/ PATH=/Users/aminvatankhahi/Library/Android/sdk/cmdline-tools/latest/bin:/Users/aminvatankhahi/Library/Android/sdk/platform-tools:/Users/aminvatankhahi/develop/flutter/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Applications/VMware Fusion.app/Contents/Public:/opt/homebrew/bin:/Applications/ChatGPT.app/Contents/Resources/codex-cli/codex-path:/Users/aminvatankhahi/.codex/tmp/arg0-macos/codex-arg0p0DFMT:/Users/aminvatankhahi/.local/bin:/Users/aminvatankhahi/Library/Android/sdk/cmdline-tools/latest/bin:/Users/aminvatankhahi/Library/Android/sdk/platform-tools:/Users/aminvatankhahi/develop/flutter/bin:/opt/homebrew/sbin:/Users/aminvatankhahi/.pub-cache/bin:/Applications/ChatGPT.app/Contents/Resources:/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS HOME=/Users/aminvatankhahi /Users/aminvatankhahi/develop/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/package_config.json /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/objective_c/de310349bc/hook.dill --config=/Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/objective_c/de310349bc/input.json )`.
+INFO: 2026-10-23 16:36:33.697012: Using compiler /Library/Developer/CommandLineTools/usr/bin/clang from BuildInput.cCompiler.cc.
+
+INFO: 2026-10-23 16:36:33.700039: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/include/dart_api_dl.c -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-10-23 16:36:33.700823: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/objective_c.c -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.c.o
+
+INFO: 2026-10-23 16:36:33.701020: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/objective_c.m -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.m.o
+
+ream_adapter.m.o
+
+INFO: 2026-10-23 16:36:33.701120: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/observer.m -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/observer.m.o
+
+INFO: 2026-10-23 16:36:33.701275: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/ns_number.m -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/ns_number.m.o
+
+INFO: 2026-10-23 16:36:33.701374: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/protocol.m -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/protocol.m.o
+
+INFO: 2026-10-23 16:36:33.701458: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/aminvatankhahi/.pub-cache/hosted/pub.dev/objective_c-9.6.2/src/objective_c_bindings_generated.m -fpic -gline-tables-only -I src -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-10-23 16:36:33.923503: 
+INFO: 2026-10-23 16:36:33.923510: 
+INFO: 2026-10-23 16:36:33.923516: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.c.o
+
+: 2026-10-23 16:36:33.923430: 
+INFO: 2026-10-23 16:36:33.923440: 
+INFO: 2026-10-23 16:36:33.923453: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-10-23 16:36:33.923874: 
+INFO: 2026-10-23 16:36:33.923891: 
+INFO: 2026-10-23 16:36:33.923899: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/protocol.m.o
+
+INFO: 2026-10-23 16:36:34.152421: 
+INFO: 2026-10-23 16:36:34.152459: 
+INFO: 2026-10-23 16:36:34.152468: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/ns_number.m.o
+
+INFO: 2026-10-23 16:36:34.161321: 
+INFO: 2026-10-23 16:36:34.161356: 
+INFO: 2026-10-23 16:36:34.161366: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.m.o
+INFO: 2026-10-23 16:36:34.161400: 
+INFO: 2026-10-23 16:36:34.161410: 
+INFO: 2026-10-23 16:36:34.161416: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-10-23 16:36:34.186592: 
+INFO: 2026-10-23 16:36:34.186618: 
+INFO: 2026-10-23 16:36:34.186624: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-10-23 16:36:34.186862: Running: /Library/Developer/CommandLineTools/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/include/dart_api_dl.c.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.c.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/input_stream_adapter.m.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.m.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/observer.m.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/ns_number.m.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/protocol.m.o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c_bindings_generated.m.o -o /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/objective_c.dylib
+
+INFO: 2026-10-23 16:36:34.299907: 
+INFO: 2026-10-23 16:36:34.299958: 
+INFO: 2026-10-23 16:36:34.299966: Generated /Users/aminvatankhahi/Desktop/mik-platform/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/objective_c.dylib
+

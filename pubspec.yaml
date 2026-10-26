@@ -1,0 +1,22 @@
+name: mik_platform
+publish_to: none
+
+environment:
+  sdk: ">=3.10.0 <4.0.0"
+
+workspace:
+  - mik-app
+  - mik-yar
+  - packages/scan
+  - packages/mik_components
+  - packages/mik_consts
+  - packages/mik_variables
+  - packages/mik_data
+  - packages/mik_utils
+  - packages/mik_router
+  - packages/mik_pages
+
+dev_dependencies:
+  melos: ^8.9.0
+
+melos:

@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "MikYar Direct",
+      "cwd": "${workspaceFolder}/mik-yar",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "args": [
+        "--flavor",
+        "direct",
+        "--dart-define=MARKET=direct"
+      ]
+    },
+    {
+      "name": "Mik",
+      "cwd": "${workspaceFolder}/mik-app",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<module fileurl="file://$PROJECT_DIR$/packages/buttons/melos_buttons.iml" filepath="$PROJECT_DIR$/packages/buttons/melos_buttons.iml"/>
+<module fileurl="file://$PROJECT_DIR$/mik-app/melos_mik.iml" filepath="$PROJECT_DIR$/mik-app/melos_mik.iml"/>
+<module fileurl="file://$PROJECT_DIR$/mik-yar/melos_mikyar.iml" filepath="$PROJECT_DIR$/mik-yar/melos_mikyar.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/scan/melos_scan.iml" filepath="$PROJECT_DIR$/packages/scan/melos_scan.iml"/>
+<module fileurl="file://$PROJECT_DIR$/melos_mik_platform.iml" filepath="$PROJECT_DIR$/melos_mik_platform.iml"/>
+    </modules>
+  </component>
+</project>

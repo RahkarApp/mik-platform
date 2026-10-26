@@ -1,0 +1,1 @@
+export '../utils/getFirstData.dart';
